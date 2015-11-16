@@ -1,0 +1,25 @@
+{
+  "name": "medium-clone-html",
+  "authors": [
+    "William Kurosawa <wkurosawa@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "medium-editor": "~5.9.0",
+    "medium-editor-insert-plugin": "2.1.0"
+  },
+  "resolutions": {
+    "medium-editor": "~5.9.0"
+  }
+}

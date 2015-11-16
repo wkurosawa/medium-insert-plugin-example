@@ -1,0 +1,14 @@
+.container {
+  width: 80%;
+  margin: auto auto;
+}
+
+.form-data {
+  border: 1px solid #DEDEDE;
+  margin-bottom: 20px;
+
+}
+.form-inputs {
+  border: 1px solid #DEDEDE;
+
+}
